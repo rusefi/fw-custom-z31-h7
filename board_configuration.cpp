@@ -1,7 +1,7 @@
 #include "pch.h"
 
 Gpio getCommsLedPin() {
-	return Gpio::Unassigned;
+	return Gpio::E3;
 }
 
 Gpio getRunningLedPin() {
